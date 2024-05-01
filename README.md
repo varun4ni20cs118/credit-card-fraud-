@@ -24,7 +24,7 @@
 
 <h2>Usage</h2>
 <ol>
-<code>git  https://github.com/your_username/credit-card-fraud-detection.git</code>
+<code>git  https://github.com/varun4ni20cs118/credit-card-fraud-.git</code>
 
 </ol>
 
